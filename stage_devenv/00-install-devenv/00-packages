@@ -1,0 +1,8 @@
+pkg-config build-essential python3 libffi-dev bison flex cmake git make
+libtcl8.6 tclsh tcl8.6-dev tcl-dev
+libboost-filesystem1.74-dev libboost-program-options1.74-dev
+libboost-system1.74-dev libboost-thread1.74-dev libboost-regex1.74-dev
+libboost-python1.74-dev libboost-iostreams1.74-dev libeigen3-dev
+openocd
+dfu-util
+cc65
