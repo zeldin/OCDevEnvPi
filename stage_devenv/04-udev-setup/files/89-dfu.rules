@@ -1,0 +1,1 @@
+ACTION=="add",SUBSYSTEM=="usb",ENV{ID_USB_INTERFACES}==":fe0102:",MODE="0664",GROUP="plugdev"
