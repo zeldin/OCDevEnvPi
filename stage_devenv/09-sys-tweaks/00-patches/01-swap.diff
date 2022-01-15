@@ -1,0 +1,11 @@
+--- jessie-stage2.orig/rootfs/etc/dphys-swapfile	2022-01-12 17:51:50.977470967 +0100
++++ jessie-stage2/rootfs/etc/dphys-swapfile	2022-01-12 18:08:43.603447692 +0100
+@@ -13,7 +13,7 @@
+ 
+ # set size to absolute value, leaving empty (default) then uses computed value
+ #   you most likely don't want this, unless you have an special disk situation
+-CONF_SWAPSIZE=100
++CONF_SWAPSIZE=2000
+ 
+ # set size to computed value, this times RAM size, dynamically adapts,
+ #   guarantees that there is enough swap without wasting disk space on excess
