@@ -7,3 +7,4 @@ openocd
 dfu-util
 cc65
 telnet
+minicom
