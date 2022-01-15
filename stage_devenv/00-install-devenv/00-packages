@@ -6,3 +6,4 @@ libboost-python1.74-dev libboost-iostreams1.74-dev libeigen3-dev
 openocd
 dfu-util
 cc65
+telnet
