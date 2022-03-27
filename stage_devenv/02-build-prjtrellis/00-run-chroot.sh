@@ -1,4 +1,4 @@
-PRJTRELLIS_VERSION=1.1
+PRJTRELLIS_VERSION=1.2.1
 DATABASE_HASH=0ee729d
 git clone -b ${PRJTRELLIS_VERSION} https://github.com/YosysHQ/prjtrellis.git
 cd prjtrellis/database
