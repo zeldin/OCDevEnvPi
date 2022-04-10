@@ -19,6 +19,9 @@ SDcard of at least 16 MiB in size.  Insert the card in Raspberry Pi 3,
 4 or 400, and power it up.  After completing the regular Raspbian
 setup process, please reboot the system at least once in order for the
 larger swap setting to kick in (important if the Pi has less than 4G of RAM).
+Note that the first two boots to desktop can take up to 5 minutes as the
+SDcard is being setup.  After that the boot time should be reduced to
+around 30 seconds.
 
 
 ## Building the sample applications
