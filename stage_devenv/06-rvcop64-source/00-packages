@@ -1,1 +1,2 @@
 gcc-riscv64-unknown-elf
+ninja-build
