@@ -1,4 +1,4 @@
-NEXTPNR_VERSION=0.2
+NEXTPNR_VERSION=0.3
 git clone -b nextpnr-${NEXTPNR_VERSION} https://github.com/YosysHQ/nextpnr.git
 cd nextpnr
 export pkg_version=${NEXTPNR_VERSION}

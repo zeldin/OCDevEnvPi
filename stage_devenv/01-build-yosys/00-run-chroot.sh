@@ -1,4 +1,4 @@
-YOSYS_VERSION=0.15
+YOSYS_VERSION=0.17
 git clone -b yosys-${YOSYS_VERSION} https://github.com/YosysHQ/yosys.git
 cd yosys
 export pkg_version=${YOSYS_VERSION}
